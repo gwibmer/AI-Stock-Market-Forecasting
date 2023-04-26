@@ -1,0 +1,2 @@
+batch_size,dense_activation,dense_units,epochs,learning_rate,lstm_activation,lstm_units
+8,relu,8,50,0.0001,relu,32
