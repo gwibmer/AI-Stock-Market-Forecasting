@@ -1,2 +1,0 @@
-batch_size,dense_activation,dense_units,epochs,learning_rate
-64,elu,64,30,0.1
