@@ -1,2 +1,2 @@
-batch_size,dense_activation,dense_units,epochs,learning_rate
-64,elu,64,30,0.1
+batch_size,dense_activation,dense_regularizer,dense_units,epochs,learning_rate,lstm_activation,lstm_regularizer,lstm_units
+8,elu,tf.keras.regularizers.l2(0.01),8,10,0.001,relu,tf.keras.regularizers.l2(0.01),32
